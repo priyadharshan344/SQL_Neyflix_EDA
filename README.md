@@ -1,1 +1,1 @@
-# SQL_Neyflix_EDA
+# Exploratory data analysis- Netflix movies and series of data using SQL.
