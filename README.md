@@ -13,7 +13,8 @@ Explore and categorize content based on specific criteria and keywords.
 Dataset
 The data for this project is sourced from the Kaggle dataset:
 
-Schema 
+##Schema
+ 
 ```CREATE TABLE `netflix_eda` (
   `show_id` varchar(6) DEFAULT NULL,
   `type` varchar(10) DEFAULT NULL,
