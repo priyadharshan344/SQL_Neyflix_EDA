@@ -14,7 +14,7 @@ Dataset
 The data for this project is sourced from the Kaggle dataset:
 
 Schema 
-CREATE TABLE `netflix_eda` (
+```CREATE TABLE `netflix_eda` (
   `show_id` varchar(6) DEFAULT NULL,
   `type` varchar(10) DEFAULT NULL,
   `title` varchar(150) DEFAULT NULL,
