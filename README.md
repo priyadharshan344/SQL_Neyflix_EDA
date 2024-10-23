@@ -50,5 +50,6 @@ CREATE TABLE `netflix_eda` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 ```
 
-
+### EDA Solutions
+[Fired queries](https://github.com/priyadharshan344/SQL_Neyflix_EDA/blob/main/Solutions_EDA.sql)
 
