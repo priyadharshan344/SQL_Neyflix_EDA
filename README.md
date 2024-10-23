@@ -6,10 +6,10 @@
 This project involved performing an Exploratory Data Analysis (EDA) on Netflix's content catalog using SQL Queries. The analysis focused on understanding the distribution and characteristics of Netflix's offerings, covering both movies and TV shows. The objective was to identify key trends and patterns in terms of content types, ratings, release years, countries of origin, and content duration, as well as exploring thematic content based on specific keywords.
 
 ## Key Metrics & Insights:
--- Distribution of Content Types:
+--Distribution of Content Types:
 Analyzed the proportion of movies vs TV shows available on Netflix, providing insights into the balance between short and long-form content.
 
--- Most Common Ratings:
+--Most Common Ratings:
 Identified the most frequent content ratings (e.g., G, PG, TV-MA) for movies and TV shows, helping understand the target audience for Netflix's content.
 
 -- Release Years:
